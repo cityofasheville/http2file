@@ -16,7 +16,7 @@ var appConfig = {
   urlPath : '/api/2.0/requests_list?&after_timestamp=1401595200&api_key=i952rk495itu254sx21141j2d3je3x&limit=1000&request_type_id=11339&return_type=json&status=all&verbose=1',
   outputFileLocation : '../htdocs/Graffiti-Dashboard/data/data.js',
   outputPrefix : 'var pubstuff = ',
-  interval : 60000
+  interval : 1800000
 }
 
 
