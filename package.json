@@ -1,0 +1,15 @@
+{
+  "name": "http2file",
+  "version": "0.0.0",
+  "description": "Makes an http request at an interval and writes response to a json file",
+  "main": "http2file.js",
+  "dependencies": {
+    "forever": "^0.11.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cameron Carlyle",
+  "license": "BSD"
+}
