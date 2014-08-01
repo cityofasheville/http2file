@@ -27,7 +27,7 @@ var options = {
 };
 
 callback = function(response) {
-  var str = appConfig.prefix;
+  var str = appConfig.outputPrefix;
 
   //another chunk of data has been recieved, so append it to `str`
   response.on('data', function (chunk) {
